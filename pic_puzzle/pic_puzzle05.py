@@ -4,7 +4,7 @@ import random
 
 FPS = 300
 win = tk.Tk()
-Pic_path = "img5.jpg"
+Pic_path = "img6.png"
 im = Image.open(Pic_path)  # 读取图片
 tkImage_list = []
 index_list = []  # 用来记录下标，通过打乱下标来打乱拼图
